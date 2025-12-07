@@ -79,6 +79,7 @@ For optimal privacy, only these amounts are allowed:
 
 - [ERC-8065 PR](https://github.com/ethereum/ERCs/pull/1322)
 - [ERC-8065 Discussion (Ethereum Magicians)](https://ethereum-magicians.org/t/erc-8065-zero-knowledge-token-wrapper/26006)
+ -[ERC-8065 proposal by @0xNullLabs](https://github.com/0xNullLabs/ERC-8065-Zero-Knowledge-Token-Wrapper/blob/erc-draft-zero-knowledge-token-wrapper/ERCS/erc-8065.md)
 
 ## License
 
